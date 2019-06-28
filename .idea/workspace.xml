@@ -24,16 +24,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testfile/config.ini">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/testfile/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login_url.json">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/login_url.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -42,7 +42,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/read_config.py">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/read_config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="855">
               <caret line="57" selection-start-line="57" selection-end-line="57" />
@@ -53,11 +53,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/sonar-project.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageObject/login_page.py">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/pageObject/login_page.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -66,10 +75,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/selenium_tools.py">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/common/selenium_tools.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -78,10 +87,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/case_HomePage.py">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/testcase/case_HomePage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -90,7 +99,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/caselist.txt">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/caselist.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-column="13" />
@@ -99,7 +108,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runner.py">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/runner.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="543">
               <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
@@ -111,24 +120,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process/login.py">
+        <entry file="file://$PROJECT_DIR$/../finalUiTest/process/login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/read_excel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,6 +145,9 @@
       <find>testFile</find>
       <find>output</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/pageObject/login_page.py" />
         <option value="$PROJECT_DIR$/testfile/config.ini" />
         <option value="$PROJECT_DIR$/login_url.json" />
+        <option value="$PROJECT_DIR$/../finalUiTest/sonar-project.properties" />
       </list>
     </option>
   </component>
@@ -177,6 +178,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -188,31 +190,31 @@
           <expand>
             <path>
               <item name="ralphlauren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ralphlauren" type="462c0819:PsiDirectoryNode" />
+              <item name="finalUiTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ralphlauren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ralphlauren" type="462c0819:PsiDirectoryNode" />
+              <item name="finalUiTest" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ralphlauren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ralphlauren" type="462c0819:PsiDirectoryNode" />
+              <item name="finalUiTest" type="462c0819:PsiDirectoryNode" />
               <item name="pageObject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ralphlauren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ralphlauren" type="462c0819:PsiDirectoryNode" />
+              <item name="finalUiTest" type="462c0819:PsiDirectoryNode" />
               <item name="process" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ralphlauren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ralphlauren" type="462c0819:PsiDirectoryNode" />
+              <item name="finalUiTest" type="462c0819:PsiDirectoryNode" />
               <item name="testcase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ralphlauren" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ralphlauren" type="462c0819:PsiDirectoryNode" />
+              <item name="finalUiTest" type="462c0819:PsiDirectoryNode" />
               <item name="testfile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -444,7 +446,7 @@
       <workItem from="1561340603541" duration="4383000" />
       <workItem from="1561427065009" duration="468000" />
       <workItem from="1561447628426" duration="26000" />
-      <workItem from="1561688858118" duration="109000" />
+      <workItem from="1561688858118" duration="443000" />
     </task>
     <servers />
   </component>
@@ -481,7 +483,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32682000" />
+    <option name="totallyTimeSpent" value="33016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -501,7 +503,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -542,7 +544,7 @@
     <entry file="file://$PROJECT_DIR$/result/20190620143718/output.log" />
     <entry file="file://$PROJECT_DIR$/result/20190620143718/report.html" />
     <entry file="file://$PROJECT_DIR$/report/测试报告文件名称.html" />
-    <entry file="file://$PROJECT_DIR$/common/HTMLTestRunner.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/common/HTMLTestRunner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11610">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -557,7 +559,7 @@
     <entry file="file://$PROJECT_DIR$/report/20190620160021/ralph lauren测试运行日志.log" />
     <entry file="file://$PROJECT_DIR$/report/20190620160555/ralph lauren测试报告.html" />
     <entry file="file://$PROJECT_DIR$/report/20190620160555/ralph lauren测试运行日志.log" />
-    <entry file="file://$PROJECT_DIR$/testfile/emailStyle.txt">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/testfile/emailStyle.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
@@ -592,7 +594,7 @@
     <entry file="file://$PROJECT_DIR$/report/20190624182148/ralph lauren测试报告.html" />
     <entry file="file://$PROJECT_DIR$/report/20190624182343/ralph lauren测试报告.html" />
     <entry file="file://$PROJECT_DIR$/report/20190624182552/ralph lauren测试报告.html" />
-    <entry file="file://$PROJECT_DIR$/common/configEmail.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/common/configEmail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
@@ -602,7 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/Log.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/common/Log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
@@ -612,7 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/read_excel.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/common/read_excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -622,27 +624,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/selenium_tools.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/common/selenium_tools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/login_page.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/pageObject/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/process/login.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/process/login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -652,34 +654,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/case_HomePage.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/testcase/case_HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/caselist.txt">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/caselist.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/read_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runner.py">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
@@ -689,17 +681,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testfile/config.ini">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/testfile/config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login_url.json">
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/login_url.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/read_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../finalUiTest/sonar-project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
