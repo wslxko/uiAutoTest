@@ -57,10 +57,10 @@ class AllTest:
                 # fp = open(resultPath, 'wb')
                 HTMLReport.TestRunner(
                     output_path=resultPath,
-                    report_file_name="ralph lauren测试报告",
-                    log_file_name="ralph lauren测试运行日志",
-                    title="ralph lauren测试报告",
-                    description="ralph lauren测试报告",
+                    report_file_name="测试报告",
+                    log_file_name="测试运行日志",
+                    title="测试报告",
+                    description="测试报告",
                     thread_count=3,  # 多线程启动chromedriver运行测试用例
                     thread_start_wait=3  # 设置线程启动的延迟时间
                 ).run(suit)
